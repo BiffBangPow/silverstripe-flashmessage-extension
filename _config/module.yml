@@ -1,0 +1,7 @@
+---
+Name: flashmessages
+---
+
+SilverStripe\Control\Controller:
+  extensions:
+    - BiffBangPow\Extension\FlashMessageExtension
