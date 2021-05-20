@@ -1,1 +1,1 @@
-Flash messages extension
+Flash messages extension.
