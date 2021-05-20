@@ -1,6 +1,6 @@
 {
-  "name": "biffbangpow/silverstripe-extensionmodule-template",
-  "description": "A basic skeleton for a Silverstripe 4 extension module",
+  "name": "biffbangpow/silverstripe-flashmessage-extension",
+  "description": "Flash messages extension",
   "type": "silverstripe-vendormodule",
   "minimum-stability": "dev",
   "license": "proprietary",
