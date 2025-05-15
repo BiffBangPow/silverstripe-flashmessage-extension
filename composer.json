@@ -14,9 +14,8 @@
       "email": "james.h@biffbangpow.com"
     }
   ],
-  "require": {
-    "silverstripe/vendor-plugin": "^1.0",
-    "silverstripe/cms": "^4"
+  "require": {    
+    "silverstripe/cms": "^4|^5"
   },
   "autoload": {
     "psr-4": {
